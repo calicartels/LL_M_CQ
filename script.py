@@ -44,7 +44,7 @@ def pdftotext(file_path):
     return text
 
 # List of PDF files to process
-pdf_files = ['G:/Proj Curreent/Akaike Tech/NLP assignment/internship-assignment-nlp-main/Dataset/chapter-2.pdf','G:/Proj Curreent/Akaike Tech/NLP assignment/internship-assignment-nlp-main/Dataset/chapter-3.pdf','G:/Proj Curreent/Akaike Tech/NLP assignment/internship-assignment-nlp-main/Dataset/chapter-4.pdf']
+pdf_files = ['tmvishnu/project/inputPDF]
 
 # Read text from each PDF file
 for file in pdf_files:
