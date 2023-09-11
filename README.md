@@ -1,6 +1,6 @@
 # LLM MCQs Generator with Davenchi 3
 
-This is a tool for generating multiple-choice questions (MCQs) for the Legal Master's (LLM) field. It leverages the power of Davenchi 3, a state-of-the-art language model developed by OpenAI, to extract relevant descriptions from PDF documents and automatically generate MCQs based on the extracted content.
+This is a tool for generating multiple-choice questions (MCQs) through the power of LLM's. It leverages the power of Davenchi-003, a state-of-the-art language model developed by OpenAI, to extract relevant descriptions from PDF documents and automatically generate MCQs based on the extracted content.
 
 ## Features
 
@@ -16,7 +16,7 @@ To use this tool, follow the steps below:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/llm-mcqs-generator.git
+   git clone https://github.com/calicartels/LL_M_CQ.git
    ```
 
 2. Install the required dependencies using pip:
@@ -26,7 +26,7 @@ To use this tool, follow the steps below:
    pip install PyPDF2
    ```
 
-3. Download and install Davenchi 3 from the OpenAI website. Please refer to the OpenAI documentation for installation instructions.
+3. Download and install Davenchi-003 from the OpenAI website. Please refer to the OpenAI documentation for installation instructions.
 
 4. Place your PDF files in the designated directory.
 
@@ -54,10 +54,19 @@ Contributions to this project are welcome! If you encounter any issues, have sug
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the terms of the license.
 
-## Acknowledgments
-
 We would like to express our gratitude to the developers at OpenAI for providing access to the Davenchi 3 language model and their valuable contributions to the field of natural language processing.
 
 ## Disclaimer
 
 Please note that this tool is provided for educational and informational purposes only. The generated MCQs should be reviewed and verified by subject matter experts for accuracy and relevance before use in any formal assessments or evaluations. The creators of this tool cannot be held responsible for any inaccuracies or misuse of the generated content.
+
+## Note
+
+This code demonstrates how to use the OpenAI API with the GPT-3 language model, specifically the Davinci-003 engine, to generate multiple-choice questions.
+It takes a paragraph as input, reduces its length if necessary, and generates the specified number of multiple-choice questions based on the paragraph. The questions and answers are then printed.
+
+Make sure to replace 'YOUR_API_KEY' with your actual OpenAI API key.
+
+Remember to have the openai Python package installed (pip install openai) and a valid OpenAI API key to run this code successfully.
+
+
