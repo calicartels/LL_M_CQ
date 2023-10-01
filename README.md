@@ -50,12 +50,6 @@ To generate MCQs with this tool, follow the steps below:
 
 Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please open an issue on the GitHub repository or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the terms of the license.
-
-We would like to express our gratitude to the developers at OpenAI for providing access to the Davenchi 3 language model and their valuable contributions to the field of natural language processing.
-
 ## Disclaimer
 
 Please note that this tool is provided for educational and informational purposes only. The generated MCQs should be reviewed and verified by subject matter experts for accuracy and relevance before use in any formal assessments or evaluations. The creators of this tool cannot be held responsible for any inaccuracies or misuse of the generated content.
